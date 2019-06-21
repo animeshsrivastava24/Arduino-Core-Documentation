@@ -7,7 +7,7 @@ The repository is created to provide necessary documentation for the Arduino Cor
 The [Wiki](https://github.com/animeshsrivastava24/Arduino-Core-Documentation/wiki) of the Repository is dedicated to the Documentation. Please refer to the Table of Contents below for more detailed information.
 
 ## Table of Contents
-1. Introduction to Arduino Core.
+1. Introduction to Arduino Core(https://github.com/animeshsrivastava24/Arduino-Core-Documentation/wiki/1.-Introduction-to-Arduino-Core)
 
 2. Source file and building process.
 
