@@ -4,7 +4,7 @@ The repository is created to provide necessary documentation for the Arduino Cor
 
 
 ## Description 
-The Wiki of the Repository is dedicated to the Documentation. Please refer to the Table of Contents below for more detailed information.
+The [Wiki](https://github.com/animeshsrivastava24/Arduino-Core-Documentation/wiki) of the Repository is dedicated to the Documentation. Please refer to the Table of Contents below for more detailed information.
 
 ## Table of Contents
 1. Introduction to Arduino Core.
@@ -30,6 +30,7 @@ The Wiki of the Repository is dedicated to the Documentation. Please refer to th
 * Online Method - JSON Url Creation.
 * Offline Method - Addition of Arduino Core to the IDE.
 
+Please refer to [https://github.com/arduino/Arduino/wiki/Arduino-IDE-1.5-3rd-party-Hardware-specification](https://github.com/arduino/Arduino/wiki/Arduino-IDE-1.5-3rd-party-Hardware-specification) for more details.
    
 ## Contributing
 Excerpt from [Arduino Season of Docs Page](https://github.com/arduino/season-of-docs/blob/master/IDEAS.md#document-arduino-cores)
