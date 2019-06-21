@@ -1,4 +1,4 @@
-![](https://img.shields.io/badge/Arduino%20Core-Documentation-brightgreen.svg)
+![](https://img.shields.io/badge/Arduino%20Core-Documentation-brightgreen.svg) ![](https://img.shields.io/badge/Documentation-In%20Process-brightgreen.svg)
 # Arduino-Core-Documentation
 The repository is created to provide necessary documentation for the Arduino Cores.
 
