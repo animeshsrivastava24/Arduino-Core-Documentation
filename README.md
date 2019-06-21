@@ -9,7 +9,7 @@ The [Wiki](https://github.com/animeshsrivastava24/Arduino-Core-Documentation/wik
 ## Table of Contents
 1. [Introduction to Arduino Core](https://github.com/animeshsrivastava24/Arduino-Core-Documentation/wiki/1.-Introduction-to-Arduino-Core)
 
-2. Introduction to Source files and the Building Process.
+2. [Introduction to Source files and the Building Process](https://github.com/animeshsrivastava24/Arduino-Core-Documentation/wiki/2.-Introduction-to-Source-files-and-the-Building-Process.)
 
 3. Custom Core Design JSON File Creation
 
