@@ -7,9 +7,19 @@ The repository is created to provide necessary documentation for the Arduino Cor
 The [Wiki](https://github.com/animeshsrivastava24/Arduino-Core-Documentation/wiki) of the Repository is dedicated to the Documentation. Please refer to the Table of Contents below for more detailed information.
 
 ## Table of Contents
+
 1. [Introduction to Arduino Core](https://github.com/animeshsrivastava24/Arduino-Core-Documentation/wiki/1.-Introduction-to-Arduino-Core)
 
 2. [Introduction to Source files and the Building Process](https://github.com/animeshsrivastava24/Arduino-Core-Documentation/wiki/2.-Introduction-to-Source-files-and-the-Building-Process.)
+   1. [General Source Files](https://github.com/animeshsrivastava24/Arduino-Core-Documentation/wiki/2.-Introduction-to-Source-files-and-the-Building-Process./_edit#general-source-files)
+   2. [Port-related Source Files](https://github.com/animeshsrivastava24/Arduino-Core-Documentation/wiki/2.-Introduction-to-Source-files-and-the-Building-Process./_edit#port-related-source-files)
+       * [Digital Port Source File](https://github.com/animeshsrivastava24/Arduino-Core-Documentation/wiki/2.-Introduction-to-Source-files-and-the-Building-Process./_edit#1digital-port-source-file)
+       * [Analog Port Source File](https://github.com/animeshsrivastava24/Arduino-Core-Documentation/wiki/2.-Introduction-to-Source-files-and-the-Building-Process./_edit#2analog-port-source-file)
+       * [Other Port Related Files](https://github.com/animeshsrivastava24/Arduino-Core-Documentation/wiki/2.-Introduction-to-Source-files-and-the-Building-Process./_edit#3other-port-related-files)
+   3. [Timers/Timing Source Files](https://github.com/animeshsrivastava24/Arduino-Core-Documentation/wiki/2.-Introduction-to-Source-files-and-the-Building-Process./_edit#timerstiming-source-files)
+   4. [Hardware Serial Source Files](https://github.com/animeshsrivastava24/Arduino-Core-Documentation/wiki/2.-Introduction-to-Source-files-and-the-Building-Process./_edit#hardware-serial-source-files)
+   5. [Wiring-related Source Files](https://github.com/animeshsrivastava24/Arduino-Core-Documentation/wiki/2.-Introduction-to-Source-files-and-the-Building-Process./_edit#wiring-related-source-files)
+   6. [Others](https://github.com/animeshsrivastava24/Arduino-Core-Documentation/wiki/2.-Introduction-to-Source-files-and-the-Building-Process./_edit#others)
 
 3. Custom Core Design JSON File Creation
 
